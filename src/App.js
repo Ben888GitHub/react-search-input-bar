@@ -1,5 +1,6 @@
 import './App.css';
 import SearchFilter from './component/SearchFilter';
+import SearchFilterApi from './component/SearchFilterApi';
 
 function App() {
 	return (
@@ -7,6 +8,8 @@ function App() {
 			<h1>React Search & Input</h1>
 			<br />
 			<SearchFilter />
+			<br />
+			<SearchFilterApi />
 		</div>
 	);
 }

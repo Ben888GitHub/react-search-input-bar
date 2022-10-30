@@ -5,7 +5,7 @@ function SearchFilter() {
 	const [query, setQuery] = useState('');
 	const inputRef = useRef();
 
-	// Filtered Items from Search Input
+	// Filtered Items based on Search Input
 	const filteredItems = useMemo(() => {
 		return items.filter((item) =>
 			item.toLowerCase().includes(query.toLowerCase())
