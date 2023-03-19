@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=E1cklb4aeXA
+
+https://medium.com/@ryanmambou/search-filter-in-nextjs-b30381c96f06
+
+https://javascript.plainenglish.io/multiple-search-filter-in-nextjs-63dba187e384
